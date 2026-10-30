@@ -1,0 +1,9 @@
+input,algoritma,status,langkah,biaya,expanded,generated,frontier_maks,waktu_rata2_ms,repeat
+inputs/mudah_3m3c_kap2.csv,BFS,solusi,11,11,14,15,3,0.05755999955,5
+inputs/mudah_3m3c_kap2.csv,DFS,solusi,11,11,13,29,9,0.05880000099,5
+inputs/sulit_5m5c_kap3.csv,BFS,solusi,11,11,26,27,5,0.1236599994,5
+inputs/sulit_5m5c_kap3.csv,DFS,solusi,15,15,20,57,24,0.1729399999,5
+inputs/tanpa_visited_3m3c.csv,BFS,solusi,11,11,11752,26707,14955,41.57638,5
+inputs/tanpa_visited_3m3c.csv,DFS,solusi,13,13,14217,14227,20,27.39516,5
+inputs/sulit_5m5c_kap3_terbalik.csv,BFS,solusi,11,11,25,27,4,0.1168799994,5
+inputs/sulit_5m5c_kap3_terbalik.csv,DFS,solusi,15,15,19,58,27,0.1114399995,5
